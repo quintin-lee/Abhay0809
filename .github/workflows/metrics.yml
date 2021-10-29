@@ -42,5 +42,3 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
-          plugin_stars: yes
-          plugin_stars_limit: 8
